@@ -19,7 +19,7 @@ An interactive Power BI dashboard with charts, metrics, and filters to support b
 
 ```
 ├── Superstore Sales Dashboard.pbix   # Power BI report file
-├── superstore_sales_dataset.xls      # E-commerce data (optional)
+├── superstore_sales_dataset.xls      # E-commerce data
 ├── README.md                         # Project overview and documentation
 └── dashboard_preview.png             # Screenshot of the dashboard
 ```
@@ -34,7 +34,7 @@ cd business-sales-dashboard
 
 2. **Open the Power BI File:**
 - Launch Power BI Desktop
-- Open `Ecommerce_Sales_Dashboard.pbix`
+- Open `Superstore Sales Dashboard.pbix`
 
 3. **Interact with the Dashboard:**
 - Filter by category, region, or date
