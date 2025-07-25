@@ -21,8 +21,7 @@ An interactive Power BI dashboard with charts, metrics, and filters to support b
 ├── Superstore Sales Dashboard.pbix   # Power BI report file
 ├── superstore_sales_dataset.xls      # E-commerce data (optional)
 ├── README.md                         # Project overview and documentation
-└── assets/                           # Supporting visuals
-    └── dashboard_preview.png         # Screenshot of the dashboard
+└── dashboard_preview.png             # Screenshot of the dashboard
 ```
 
 ## 🚀 How to Use
@@ -56,7 +55,7 @@ cd business-sales-dashboard
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📚 References
 
